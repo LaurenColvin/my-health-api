@@ -1,7 +1,16 @@
-# My Health API
-
+# :running: My Health App :heart:
+MERN Fullstack Application.  
 [Deployed Backend Link](https://pure-anchorage-47818.herokuapp.com/)
+Check out the [live site!](https://laurencolvin.github.io/my-health-client/)
+[Github Repository for Backend](https://github.com/LaurenColvin/my-health-client)
 
+## Project Description
+
+My Health App is a fitness and wellness tracker where users can input their daily acivities to work towards their goals. This is a health app for users who want to focus on awareness of their health journey.
+
+This app includes a backend database using MongoDB and Express.js and a frontend web application using Node.js and React.
+
+![alt text](./src/assets/My-Health-App.png)
 
 ## Project Schedule
 
@@ -15,13 +24,6 @@
 |Day 4| MVP & Bug Fixes & Adding Seed Data | Complete
 |Day 4| Final Touches and deploying frontend | Complete
 |Day 5| Present | Incomplete
-
-
-## Project Description
-
-My Health App is a fitness and wellness tracker where users can input their daily acivities to work towards their goals. This is a health app for users who want to focus on awareness of their health journey.
-
-This app will include a backend database using MongoDB and Express.js and a frontend web application using Node.js and React.
 
 ## Team Responsibilities
 
