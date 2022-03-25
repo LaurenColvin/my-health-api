@@ -1,8 +1,8 @@
 # :running: My Health App :heart:
 MERN Fullstack Application.  
 [Deployed Backend Link](https://pure-anchorage-47818.herokuapp.com/)   
+[Github Repository for Frontend](https://github.com/LaurenColvin/my-health-client)   
 Check out the [live site!](https://laurencolvin.github.io/my-health-client/)   
-[Github Repository for Backend](https://github.com/LaurenColvin/my-health-client)
 
 ## Project Description
 
