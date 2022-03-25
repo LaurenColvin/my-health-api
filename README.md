@@ -1,7 +1,7 @@
 # :running: My Health App :heart:
 MERN Fullstack Application.  
-[Deployed Backend Link](https://pure-anchorage-47818.herokuapp.com/)
-Check out the [live site!](https://laurencolvin.github.io/my-health-client/)
+[Deployed Backend Link](https://pure-anchorage-47818.herokuapp.com/)   
+Check out the [live site!](https://laurencolvin.github.io/my-health-client/)   
 [Github Repository for Backend](https://github.com/LaurenColvin/my-health-client)
 
 ## Project Description
@@ -10,7 +10,7 @@ My Health App is a fitness and wellness tracker where users can input their dail
 
 This app includes a backend database using MongoDB and Express.js and a frontend web application using Node.js and React.
 
-![alt text](./src/assets/My-Health-App.png)
+![alt text](My-Health-App.png)
 
 ## Project Schedule
 
